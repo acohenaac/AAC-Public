@@ -1,7 +1,9 @@
 ## Let’s connect to build community and cool projects together!
 ### [Reach me on Linkedin @ orgeffectivessacohen](https://www.linkedin.com/in/orgeffectivenessacohen/) <br />
 For some fun, check out this [Jeopardy game I created for our Scrum groups to practice Python Basic Matplotlib Visualization Tools](https://rb.gy/ayfb78) <br />
-Feel free to use and please credit https://jeopardylabs.com/ ![Jeopardy Labs2](https://github.com/acohenaac/AAC-Public/assets/130612256/0a99b6c1-fd71-4039-8f66-787a32dceac3)
+Feel free to use and please credit https://jeopardylabs.com/ 
+![Jeopardy Labsatomswirl](https://github.com/acohenaac/AAC-Public/assets/130612256/88ea5b3c-a488-42fa-92e7-f3df0936bfd0)
+![Jeopardy LabTEXT](https://github.com/acohenaac/AAC-Public/assets/130612256/27edbcbe-077c-4bdc-af38-7a7e74720793)
 
 
 
