@@ -1,8 +1,7 @@
 ## Let’s connect to build community and cool projects together!
 ### [Reach me on Linkedin @ orgeffectivessacohen](https://www.linkedin.com/in/orgeffectivenessacohen/) <br />
 For some fun, check out this [Jeopardy game I created for our Scrum groups to practice Python Basic Matplotlib Visualization Tools](https://rb.gy/ayfb78) <br />
-Feel free to use and please credit https://jeopardylabs.com/ ![Jeopardy Labs2](https://github.com/acohenaac/AAC-Public/assets/130612256/1788be97-b2ba-42e8-b13d-e55f1416ba06)
-
+Feel free to use and please credit https://jeopardylabs.com/ 
 ![Jeopardy Labs](https://github.com/acohenaac/AAC-Public/assets/130612256/b3e1920c-13aa-466b-b849-fadb2b775efb)
 
 ### To showcase some Data Analysis skills, here's my [**IBM Data Analysis Capstone Project** presentation](https://github.com/acohenaac/AAC-Public/blob/main/AAC-capstone-story-Nov26-2023.pdf) and [Dashboard created using **IBM Cognos Analytics** (Nov 2023)](https://rb.gy/frfy35)   <br />
