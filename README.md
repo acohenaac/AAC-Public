@@ -6,7 +6,7 @@ Feel free to use and please credit https://jeopardylabs.com/
 
 
 ### To showcase some Data Analysis skills, here's my [**IBM Data Analysis Capstone Project** presentation.](https://github.com/acohenaac/AAC-Public/blob/main/AAC-capstone-story-Nov26-2023.pdf) <br />
-Dashboard shown in gif was created using **IBM Cognos Analytics** <br />
+Dashboard shown in gif was created using **IBM Cognos Analytics**: <br />
 <br />
 ![Dashboard with 3 tabs](https://github.com/acohenaac/AAC-Public/assets/130612256/af4b3190-ded3-417d-a9a8-a6bad872ba7a)
 
